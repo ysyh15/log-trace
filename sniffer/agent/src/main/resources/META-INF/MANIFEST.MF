@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Premain-Class: com.lllis.log.trace.sniffer.agent.LogTraceAgent
+Can-Redefine-Classes: true
