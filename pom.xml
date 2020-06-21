@@ -5,7 +5,14 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.lllis</groupId>
   <artifactId>log-trace</artifactId>
+  <packaging>pom</packaging>
   <version>0.0.1-SNAPSHOT</version>
+  <modules>
+    <module>sniffer</module>
+    <module>web</module>
+    <module>collector</module>
+    <module>alertmanager</module>
+  </modules>
   <name>log-trace</name>
   <description>project for log trace</description>
 
